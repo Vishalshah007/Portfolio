@@ -23,17 +23,15 @@ Hey there! I'm Vishal Shah, a passionate and dedicated Web Developer. My journey
 - Python
 - SEO Optimization 
 
-Feel free to explore the [Skills](#skills) section for a detailed overview.
-
 ## Projects 🚧
 
 Explore some of the projects that I've worked on. Each project represents a unique challenge and an opportunity to learn and grow.
 
-1. Netflix Clone(https://streamnetflix.netlify.app/) - Brief description.
-2. E-Commerce(#) - Brief description.
-3. Calculator(#) - Brief description.
+1. Netflix Clone (https://streamnetflix.netlify.app/) 
+2. E-Commerce (https://kickeastore.netlify.app/) 
+3. Calculator (https://calculatorwizard.netlify.app/) 
 
-For more details, visit the [Projects](#projects) section.
+For more details, visit my Portfolio (https://shahvishalportfolio.netlify.app/) section.
 
 ## Usage 🌐
 
