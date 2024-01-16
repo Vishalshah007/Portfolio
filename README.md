@@ -29,9 +29,9 @@ Feel free to explore the [Skills](#skills) section for a detailed overview.
 
 Explore some of the projects that I've worked on. Each project represents a unique challenge and an opportunity to learn and grow.
 
-1. [Project 1 Name](#) - Brief description.
-2. [Project 2 Name](#) - Brief description.
-3. [Project 3 Name](#) - Brief description.
+1. Netflix Clone(https://streamnetflix.netlify.app/) - Brief description.
+2. E-Commerce(#) - Brief description.
+3. Calculator(#) - Brief description.
 
 For more details, visit the [Projects](#projects) section.
 
