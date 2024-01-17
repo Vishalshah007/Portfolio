@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500  &display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +17,7 @@ a {
   transition: 0.5s;
 }
 
-.upper a:hover{
+.upper a:hover {
   text-decoration: underline;
 }
 
@@ -241,7 +242,6 @@ nav {
   width: 85rem;
   margin-top: 0rem;
   justify-content: space-evenly;
-
 }
 
 .card {
@@ -307,7 +307,6 @@ nav {
   margin-left: 8.1rem;
   margin-top: -8.1rem;
   font-family: 'Poppins', sans-serif;
-
 }
 
 .projects-section-header {
@@ -350,7 +349,7 @@ footer {
   transition: 0.5s;
 }
 
-.btn{
+.btn {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -378,9 +377,10 @@ button:hover {
 
 
 @media only screen and (max-width: 768px) {
-  html{
+  html {
     font-size: 55%;
   }
+
   nav {
     width: 100%;
   }
@@ -389,14 +389,15 @@ button:hover {
     margin-left: 2rem;
   }
 
-  .contains{
+  .contains {
     height: 60rem;
   }
+
   .container {
     margin-left: 4rem;
   }
 
-  .projects-section{
+  .projects-section {
     height: 92rem;
   }
 
@@ -414,27 +415,27 @@ button:hover {
   }
 
   .wrapper {
-    grid-template-columns: 0% ;
+    grid-template-columns: 0%;
     grid-template-rows: 30% 30% 30%;
     width: 20%;
     margin-left: 5%;
   }
 
-  footer{
+  footer {
     height: 63rem;
   }
 
-  .fut h1{
+  .fut h1 {
     font-size: 17px;
     width: 180px;
     margin-left: -35px;
   }
 
-  .fut i{
+  .fut i {
     font-size: 15px;
   }
 
-  .social a{
+  .social a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -442,7 +443,7 @@ button:hover {
     grid-gap: 10px;
   }
 
-  button{
+  button {
     width: 140px;
     height: 30px;
     font-size: 12px;
