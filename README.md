@@ -27,7 +27,7 @@ Hey there! I'm Vishal Shah, a passionate and dedicated Web Developer. My journey
 
 Explore some of the projects that I've worked on. Each project represents a unique challenge and an opportunity to learn and grow.
 
-1. [Netflix Clone](https://streamnetflix.netlify.app/) 
+1. [Netflix Clone](https://flixspot.netlify.app/) 
 2. [E-Commerce](https://kickeastore.netlify.app/) 
 3. [Calculator](https://calculatorwizard.netlify.app/) 
 
