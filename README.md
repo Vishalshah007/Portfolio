@@ -31,7 +31,7 @@ Explore some of the projects that I've worked on. Each project represents a uniq
 2. [E-Commerce](https://kickeastore.netlify.app/) 
 3. [Calculator](https://calculatorwizard.netlify.app/) 
 
-For more details, visit my [Portfolio](https://shahvishalportfolio.netlify.app/) section.
+For more details, visit my [Portfolio](https://shahvishal.netlify.app/) section.
 
 ## Usage 🌐
 
